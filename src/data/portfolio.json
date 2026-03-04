@@ -1,0 +1,64 @@
+{
+  "name": "Siranjeevi E",
+  "title": "Computer Science Engineering Student | Full-Stack Developer | Data & AI Enthusiast",
+  "summary": "Passionate software developer with hands-on experience in full-stack development, data analytics, and AI. Proven track record through internships, hackathons, and competitive programming. Focused on building practical solutions that solve real-world problems.",
+  "location": "Tamil Nadu, India",
+  "education": "Computer Science Engineering",
+  "skills": [
+    {"category": "Programming", "items": ["C", "C++", "Python", "JavaScript"]},
+    {"category": "Web Technologies", "items": ["React.js", "Node.js", "Express.js", "MongoDB", "SQL"]},
+    {"category": "Data & AI", "items": ["Pandas", "NumPy", "Matplotlib", "OpenCV", "Deep Learning basics"]},
+    {"category": "Tools", "items": ["Git", "GitHub", "APIs", "IoT basics"]}
+  ],
+  "projects": [
+    {
+      "title": "Elder Voice Command Assistant",
+      "tech": "DNN, Python, Speech Recognition",
+      "problem": "Elderly individuals often struggle with complex digital interfaces.",
+      "solution": "A voice-activated assistant using Deep Neural Networks to perform daily tasks.",
+      "application": "Accessibility enhancement for geriatric care."
+    },
+    {
+      "title": "Real-Time Object Detection System",
+      "tech": "YOLOv8, OpenCV",
+      "problem": "Need for efficient, real-time surveillance and monitoring.",
+      "solution": "High-performance object detection system utilizing state-of-the-art YOLOv8 architecture.",
+      "application": "Security systems and automated inventory management."
+    },
+    {
+      "title": "Micro-Wind Turbine Efficiency Monitoring",
+      "tech": "IoT, Embedded Systems",
+      "problem": "Lack of real-time data for small-scale renewable energy sources.",
+      "solution": "IoT-based monitoring system to track and optimize turbine performance.",
+      "application": "Sustainable energy management for residential use."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full-Stack Developer Intern",
+      "company": "Learnlogicify Technologies",
+      "description": "Worked on production-level applications, implementing scalable frontend architectures and robust backend APIs."
+    },
+    {
+      "role": "Data Analytics Intern",
+      "company": "Nxlogic Software Solutions",
+      "description": "Analyzed complex datasets to derive actionable insights, utilizing Python libraries for data visualization and processing."
+    }
+  ],
+  "achievements": [
+    "Hackathon rankings performer in regional coding marathons.",
+    "Competitive programming statistics high ratings on coding platforms.",
+    "Innovation competition finalist for practical IoT solutions."
+  ],
+  "certifications": [
+    "Cisco Networking Basics",
+    "Database Management Systems",
+    "Python Programming",
+    "Cybersecurity Foundations"
+  ],
+  "contact": {
+    "email": "siranjeevi@example.com",
+    "linkedin": "https://linkedin.com/in/siranjeevi",
+    "github": "https://github.com/SiranjeeviE"
+  }
+}

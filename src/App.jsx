@@ -9,7 +9,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Portfolio">
       <div className="flex flex-col min-h-screen bg-background text-foreground">
         <Navbar />
         <main className="flex-grow pt-20">

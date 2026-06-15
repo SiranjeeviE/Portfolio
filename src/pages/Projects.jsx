@@ -13,7 +13,7 @@ const getTechIcon = (techString) => {
 export default function Projects() {
   return (
     <div className="w-full max-w-7xl mx-auto px-6 py-20 min-h-screen">
-      <motion.div 
+      <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
@@ -24,8 +24,8 @@ export default function Projects() {
         </h2>
         <div className="w-20 h-1 bg-gradient-to-r from-primary to-accent-2 rounded-full" />
         <p className="mt-6 text-lg text-foreground/60 max-w-2xl">
-          A showcase of systems and applications I've built, focusing on solving real-world problems 
-          using AI, IoT, and modern web architectures.
+          A showcase of systems and applications I've built, focusing on solving real-world problems
+          using AI and modern web architectures.
         </p>
       </motion.div>
 
@@ -53,7 +53,6 @@ export default function Projects() {
                   {project.title}
                 </h3>
                 <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary/10 text-primary border border-primary/20 rounded-full text-sm font-medium w-fit">
-                  {getTechIcon(project.tech)}
                   {project.tech}
                 </div>
               </div>

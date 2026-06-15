@@ -11,7 +11,8 @@
         "C",
         "C++",
         "Python",
-        "JavaScript"
+        "JavaScript",
+        "java"
       ]
     },
     {
@@ -60,11 +61,11 @@
       "application": "Security systems and automated inventory management."
     },
     {
-      "title": "Micro-Wind Turbine Efficiency Monitoring",
-      "tech": "IoT, Embedded Systems",
-      "problem": "Lack of real-time data for small-scale renewable energy sources.",
-      "solution": "IoT-based monitoring system to track and optimize turbine performance.",
-      "application": "Sustainable energy management for residential use."
+      "title": "GameVaultX",
+      "tech": "React.js, Node.js, Express.js, MongoDB",
+      "problem": "Gamers often struggle to find detailed game information, system requirements, and personalized game recommendations in a single platform.",
+      "solution": "Developed a full-stack gaming platform that allows users to explore games, view detailed information, filter by genres, and access system requirement details through an interactive interface.",
+      "application": "Gaming discovery and recommendation platform for players seeking comprehensive game insights and browsing experiences."
     }
   ],
   "experience": [
@@ -77,6 +78,11 @@
       "role": "Data Analytics Intern",
       "company": "Nxlogic Software Solutions",
       "description": "Analyzed complex datasets to derive actionable insights, utilizing Python libraries for data visualization and processing."
+    },
+    {
+      "role": "Email Marketing Intern",
+      "company": "Lazeno Consultancy",
+      "description": "Executed email marketing campaigns, managed subscriber lists, tracked campaign performance metrics, and supported digital marketing initiatives to improve customer engagement and lead generation."
     }
   ],
   "achievements": [
@@ -85,7 +91,10 @@
     "Innovation competition finalist for practical IoT solutions."
   ],
   "certifications": [
-    "Cisco Networking Basics",
+    "Cisco Certified Network Associate (CCNA) – Cisco",
+    "Juniper Networks Certified Associate (JNCIA-Junos) – Juniper",
+    "AWS Cloud Foundations – Amazon Web Services",
+    "React Web Developer",
     "Database Management Systems",
     "Python Programming",
     "Cybersecurity Foundations"

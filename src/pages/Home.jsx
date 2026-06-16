@@ -12,17 +12,6 @@ export default function Home() {
       <div className="absolute bottom-0 left-0 w-1/3 h-1/3 bg-accent-1/20 blur-[150px] -z-10" />
 
       <div className="max-w-4xl w-full mx-auto relative z-10">
-        
-        {/* Intro Tag */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
-          className="inline-flex items-center space-x-2 px-3 py-1 glass rounded-full mb-8 border border-white/5"
-        >
-          <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-          <span className="text-xs font-semibold tracking-wide text-foreground/70 uppercase">Available for work</span>
-        </motion.div>
 
         {/* Hero Headline */}
         <motion.h1 
